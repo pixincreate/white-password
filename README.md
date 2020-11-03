@@ -9,7 +9,7 @@ No-one will ever know how long your password is either as you see an empty line 
 
 ## Usage:  
 - Copy and paste the entire method / function in your code.
-- Equate and Call the function with a subscript.
+- Equate and Call the function with a subscript. (keyword `prompt` is mandatory!)
 
 #### Example of usage:  
 ```
