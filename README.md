@@ -8,8 +8,8 @@ the user input in a much more secure way.
 No-one will ever know how long your password is either as you see an empty line with a blank space.  
 
 ## Usage:  
-Copy and paste the entire method / function in your code.
-Equate and Call the function with a subscript.
+- Copy and paste the entire method / function in your code.
+- Equate and Call the function with a subscript.
 
 #### Example of usage:  
 ```
