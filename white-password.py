@@ -3,7 +3,7 @@ White-Password
 Secure-Password-Input
 Licensed under CC0-1.0 License to Pavana Narayana Bhat
 ------------------------------------------------------------------------------------------------------------------------
-Code by: Pavana Narayana Bhat AKA PiXinCreate
+Author: pixincreate
 ------------------------------------------------------------------------------------------------------------------------
 Description:
     You don't want / wish your password to
